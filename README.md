@@ -1,4 +1,9 @@
-# Sadik
+# ToDoList
+
+![image](https://user-images.githubusercontent.com/60145249/195667079-0aeb71be-c80c-4322-9142-d11dbdae6ee6.png)
+![image](https://user-images.githubusercontent.com/60145249/195667218-3fec3d73-44f7-4601-8b25-446d90dee221.png)
+![image](https://user-images.githubusercontent.com/60145249/195667282-b61cdd11-ec8d-4392-8db0-523f5d707575.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
